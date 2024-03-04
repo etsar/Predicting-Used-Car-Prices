@@ -24,7 +24,8 @@ Analyzed a comprehensive dataset from [Kaggle](https://www.kaggle.com/datasets/a
 - `image_url`: URL of the vehicle's image.
 - `description`: Description provided in the listing.
 - `county`: County where the vehicle is located (often missing).
-- `state`: State where the vehicle is listed. lat: Latitude coordinate for the listing location.
+- `state`: State where the vehicle is listed.
+- `lat`: Latitude coordinate for the listing location.
 - `long`: Longitude coordinate for the listing location.
 - `posting_date`: Date and time when the listing was posted.
 
